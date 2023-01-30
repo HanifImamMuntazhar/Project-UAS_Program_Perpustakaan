@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675062694 source:d:\c++\program_perpustakaan\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<iomanip>
+	<cstdlib>
+
